@@ -1,0 +1,7 @@
+C:\Users\Crire\Urban\urban\urban\bin\Debug\urban.exe.config
+C:\Users\Crire\Urban\urban\urban\bin\Debug\urban.exe
+C:\Users\Crire\Urban\urban\urban\bin\Debug\urban.pdb
+C:\Users\Crire\Urban\urban\urban\obj\Debug\urban.csprojAssemblyReference.cache
+C:\Users\Crire\Urban\urban\urban\obj\Debug\urban.csproj.CoreCompileInputs.cache
+C:\Users\Crire\Urban\urban\urban\obj\Debug\urban.exe
+C:\Users\Crire\Urban\urban\urban\obj\Debug\urban.pdb
